@@ -60,22 +60,3 @@ The following data-testid attributes are required in the component for the tests
 
 Please note that component has above data-testids for test cases and certain classes and ids for rendering purposes. It is advised not to change them.
 
-
-## Project Specifications
-
-**Read Only Files**
-- src/App.test.js
-
-**Commands**
-- run: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm start
-```
-- install: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm install
-```
-- test: 
-```bash
-bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
-```
